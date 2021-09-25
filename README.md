@@ -1,7 +1,7 @@
 # Hire-Your-Investor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the Live link of the project [Link](https://hire-your-investor.netlify.app/).
 
-*list 1
-*list 2
-*list 3
+* This project is about hiring your favourite investors to profit from the market.
+* You need to pay a certain amount salary to each of them.
+* Your selected investors will be shown as a list item.
