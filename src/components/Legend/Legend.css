@@ -1,0 +1,30 @@
+.legend{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    background-color: #7DEDFF;
+    border-radius: 5px;
+}
+.image{
+    background-color: #88FFF7;
+}
+.image img{
+    margin-top: 30px;
+    width:100px;
+    padding: 5px;
+}
+.detail{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    color: #2d334a;
+}
+.btn-design{
+    background-color: #7C83FD;
+    padding: 3px;
+    border-radius: 2px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left:5px;
+    margin-bottom:5px;
+    cursor: pointer;
+}

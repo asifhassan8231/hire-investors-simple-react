@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Warren Buffett",
+        "age": 82,
+        "country": "USA",
+        "company": "BUY THE DIP!",
+        "img": "https://gpcatalysis.blob.core.windows.net/gphostedcontent-prod/Buffett_500x500.jpg",
+        "salary": 212000
+    },
+    {
+        "name": "Ray Dalio",
+        "age": 61,
+        "country": "USA",
+        "company": "Bridgewater Associates",
+        "img": "https://i.pinimg.com/originals/fb/1b/a0/fb1ba0613a875fb06ef15d0edb64c3a3.jpg",
+        "salary": 199000
+    },
+    {
+        "name": "Peter Lynch",
+        "age": 67,
+        "country": "USA",
+        "company": "Magellan Fund",
+        "img": "https://images.gr-assets.com/authors/1421960086p8/18237.jpg",
+        "salary": 165000
+    },
+    {
+        "name": "Mlon Eusk",
+        "age": 54,
+        "country": "MARS",
+        "company": "TESLA",
+        "img": "https://pyxis.nymag.com/v1/imgs/30c/b50/60c11d84de5143efcdb6e09ca2f7f0af11-05-elon-musk-twitter.rsquare.w330.jpg",
+        "salary": 321000
+    },
+    {
+        "name": "Ben Graham",
+        "age": 89,
+        "country": "USA",
+        "company": "Security Analysis Inc.",
+        "img": "https://1.bp.blogspot.com/-Sxrjb3yaYKs/XKMNfBHAR4I/AAAAAAAAAxE/iYoRLbzk_xM43KYE5GBHX1-zKYD6GaWxwCEwYBhgL/s1600/Ben%2BGraham.jpg",
+        "salary": 156000
+    },
+    {
+        "name": "Bill Gates",
+        "age": 77,
+        "country": "USA",
+        "company": "Copy Cat Corp.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bill_Gates_2017_%28cropped%29.jpg",
+        "salary": 299000
+    },
+    {
+        "name": "kanye west",
+        "age": 55,
+        "country": "Mexico",
+        "company": "yeezy!",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28cropped%29.jpg/1200px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28cropped%29.jpg",
+        "salary": 250000
+    },
+    {
+        "name": "Richard Branson",
+        "age": 76,
+        "country": "USA",
+        "company": "Vargin Grp.",
+        "img": "https://pbs.twimg.com/profile_images/1410740591483293697/tRbW1XoV_400x400.jpg",
+        "salary": 198000
+    },
+    {
+        "name": "Mukesh Ambani",
+        "age": 65,
+        "country": "India",
+        "company": "Tata",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mukesh_Ambani.jpg",
+        "salary": 210000
+    },
+    {
+        "name": "Doland Trump",
+        "age": 69,
+        "country": "USA",
+        "company": "Its Free Real Estate",
+        "img": "https://cdn.vox-cdn.com/thumbor/QKHSEHTZtdtGdEBI-aeo1CzZt7s=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22223644/Donald_Trump.jpg",
+        "salary": 230000
+    },
+    {
+        "name": "Jeff Bezos",
+        "age": 66,
+        "country": "USA",
+        "company": "Amazan",
+        "img": "https://pbs.twimg.com/profile_images/669103856106668033/UF3cgUk4_400x400.jpg",
+        "salary": 110000
+    },
+    {
+        "name": "Rashid al maktoum",
+        "age": 76,
+        "country": "UAE",
+        "company": "Oil Corp.",
+        "img": "https://fameimpact.com/wp-content/uploads/2021/08/Sheikh-Mohammed-bin-Rashid-Al-Maktoum-The-Ruler-of-Dubai-4.jpg",
+        "salary": 310000
+    }
+]

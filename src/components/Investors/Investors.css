@@ -1,0 +1,14 @@
+.investors{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-left: 10px;
+}
+.investor{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+.budget{
+    text-align: center;
+    color: white;
+}
