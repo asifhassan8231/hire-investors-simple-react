@@ -18,7 +18,8 @@ const Investors = () => {
     return (
         <div className="container">
             <div className="budget">
-                <h2>Budget: 999M</h2>
+                <h3>Gather your billionaire Investors to Beat The Market!!!</h3>
+                <h2>Budget: 999 Million</h2>
             </div>
             <div className="investors">
                 <div className="investor">

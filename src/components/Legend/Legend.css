@@ -8,8 +8,9 @@
     background-color: #88FFF7;
 }
 .image img{
-    margin-top: 30px;
+    margin-top: 50px;
     width:100px;
+    height: 120px;
     padding: 5px;
 }
 .detail{
